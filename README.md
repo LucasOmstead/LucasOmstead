@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LucasOmstead
-- 👀 I’m interested in swimming, robotics and Python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 
 <!---
 LucasOmstead/LucasOmstead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
