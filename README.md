@@ -8,3 +8,6 @@ I'm a 3rd-year CS student at the University of Windsor passionate about full-sta
 - Various projects, check my github!
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=lucasomee006)](https://codeforces.com/profile/lucasomee006)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/lucas-omstead-5bab36217/)   [![Portfolio](https://img.shields.io/badge/Website-Portfolio-black)](https://lucasomstead.com/)   [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:omstead2@uwindsor.ca)
