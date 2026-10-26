@@ -1,6 +1,6 @@
 # Hi! I'm Lucas 👋
 
-I'm a 3rd-year CS student at the University of Windsor passionate about full-stack development and machine learning. I've completed 2 software development internships at RBC, where I developed various full-stack internal tools. I enjoy coding, especially competitive programming, rock climbing, walking my dog, reading sci-fi, and gaming. Let me know if you want to connect!
+I'm a 4th-year CS student at the University of Windsor passionate about full-stack development and machine learning. I've completed 2 software development internships at RBC, where I developed various full-stack internal tools, and one at Robinhood, where I worked on the Margin team. I enjoy coding, especially competitive programming, rock climbing, walking my dog, reading sci-fi, and gaming. Let me know if you want to connect!
 
 # Currently working on:
 - President of the Windsor Competitive Programming Club: Teaching weekly lessons on DSA and competitive programming concepts
